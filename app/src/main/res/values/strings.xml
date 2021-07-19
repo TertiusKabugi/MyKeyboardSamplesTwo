@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyKeyboardSamples</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_second_name">Enter Second Name</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="birthday">birthday</string>
+    <string name="enter_date_of_birth">Enter Date of Birth</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="accept_terms_and_conditions">Accept Terms and Conditions</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="company_logo">Company Logo</string>
+
+    <string-array name="spinner_label">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+
+    </string-array>
+
+</resources>
